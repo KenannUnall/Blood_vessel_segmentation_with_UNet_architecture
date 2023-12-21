@@ -7,8 +7,5 @@
       Train veri seti 20 görüntü ve 20 maske olarak ayrılmıştır. 
     </li>
   </ul>
-  
-  ![image](https://github.com/KenannUnall/Blood_vessel_segmentation_with_UNet_architecture/assets/83499398/46b51d67-5e0f-443d-a35b-598e20be7d69)
-
 
 </p>
