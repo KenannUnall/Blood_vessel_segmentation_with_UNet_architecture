@@ -8,6 +8,7 @@
     </li>
   </ul>
   
-  ![image](https://github.com/KenannUnall/Blood_vessel_segmentation_with_UNet_architecture/assets/83499398/dab8d153-9318-4a5a-943f-3b97c1aa225c)
+  ![image](https://github.com/KenannUnall/Blood_vessel_segmentation_with_UNet_architecture/assets/83499398/46b51d67-5e0f-443d-a35b-598e20be7d69)
+
 
 </p>
