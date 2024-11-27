@@ -73,8 +73,8 @@ Projeyi kullanmak için aşağıdaki adımları takip edin:
 
 1. **Veri Setini Yükleyin**: DRIVE veri setinizi projenin uygun dizinine yerleştirin.
 
-2. **Google Colab veya Yerel Ortamda Çalıştırın**:
-   - **Google Colab** kullanıyorsanız, gerekli kütüphaneleri ve veri setini yükleyin, ardından Google Drive'ınızı bağlayın.
+2. **Google Colab Ortamda Çalıştırın**:
+   - **Google Colab** ortamında, gerekli kütüphaneleri ve veri setini yükleyin, ardından Google Drive'ınızı bağlayın.
 
 3. **Not Defterini Çalıştırın**: Not defterindeki hücreleri sırayla çalıştırarak modeli eğitin ve sonuçları değerlendirin.
 
